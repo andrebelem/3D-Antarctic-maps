@@ -1,0 +1,2 @@
+wget -q -O IBCSO_v2_ice-surface_WGS84.nc https://download.pangaea.de/dataset/937574/files/IBCSO_v2_ice-surface_WGS84.nc
+wget -q -O IBCSO_v2_bed_WGS84.nc https://download.pangaea.de/dataset/937574/files/IBCSO_v2_bed_WGS84.nc
