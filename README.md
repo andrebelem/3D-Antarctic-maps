@@ -1,4 +1,4 @@
-# Crafting 3D maps of Antarctica with PyGMT and the IBCSO V2 database
+# Crafting 3D maps of Antarctica with PyGMT and the IBCSO V2
 
 <p align="center">
   <img src="https://github.com/andrebelem/3D-Antarctic-maps/blob/main/3D-Antarctic-maps.png" alt="3D Antarctic Peninsula" width="400"/>
