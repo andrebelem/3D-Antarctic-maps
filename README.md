@@ -14,5 +14,8 @@ There are a few examples in the jupyter notebook (you can try using Binder - see
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrebelem/3D-Antarctic-maps/main?labpath=Antarctic_Peninsula_3D_Maps.ipynb)<br>
 **Warning**: Binder may take a while to install everything you need.
 
+Do you want to test is in COLAB ? Just click on the icon below and have fun.<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrebelem/3D-Antarctic-maps/blob/main/Antarctic_Peninsula_3D_Maps_[COLAB_Version].ipynb)
+
 Enjoy !
 
