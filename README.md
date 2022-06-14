@@ -4,7 +4,7 @@
   <img src="https://github.com/andrebelem/3D-Antarctic-maps/blob/main/3D-Antarctic-Maps.png" alt="3D Antarctic Peninsula" width="400"/>
 </p>
 
-This is a (very dynamic) repository for the notebook/tutorial I created to share beautiful 3D maps, mainly of the Antarctic Peninsula, made with PyGMT using the new International Bathymetric Chart of the Southern Ocean (IBCSO) V2.
+This is a (very dynamic) repository for the notebook/tutorial I created to share beautiful 3D maps, mainly of the Antarctic Peninsula, made with PyGMT using the new International Bathymetric Chart of the Southern Ocean (IBCSO) V2 ([Dorschel et al, 2022](https://doi.pangaea.de/10.1594/PANGAEA.937574)).
 
 Do you want to reference this work ? Just use this DOI.<br>
 [![DOI](https://zenodo.org/badge/502757670.svg)](https://zenodo.org/badge/latestdoi/502757670)
