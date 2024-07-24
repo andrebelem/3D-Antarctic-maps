@@ -4,8 +4,8 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - gmt=6.3.0
-  - pygmt=0.6.1
+  - gmt=6.5.0
+  - pygmt=0.12.0
   - jupyterlab=3.4.0
   - jupyter-offlinenotebook=0.2.2
   # Optional dependencies
