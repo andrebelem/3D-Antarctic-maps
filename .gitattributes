@@ -1,0 +1,4 @@
+*.ipynb linguist-language=Python
+data/** linguist-vendored
+notebooks/** linguist-documentation
+outputs/** linguist-generated
